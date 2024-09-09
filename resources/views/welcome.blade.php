@@ -140,15 +140,15 @@ I.O. System Limited,  A Jamaican Owned I.T Company
             </figure>
         </div>
             <p class="spcolor lower-text">
-                <b class="font-weight-bold">I.O. System Limited </b><b class="font-weight-bold text-muted">(iosys), A Jamaican Owned I.T Company</b>
+                <b class="font-weight-bold">I.O. System Limited </b><b class="font-weight-bold text-muted">(iosys), A Privately Owned I.T Company</b>
             </p>
             <div class="links">
-            <a href="https://fiwiyaad.com">FiwiYaad</a>
+            {{-- <a href="https://fiwiyaad.com" disabled class="disabled">FiwiYaad</a>
             <a href="{{ route('tokengen.index') }}">TokenGen</a>
             <a href="#">ClickClock</a>
-            <a href="#">Pass-Q</a>
+            <a href="#">Pass-Q</a> --}}
         </div>
-<h6 class="specialnote"><small> *** <b><i>ClickClock</i></b> and <b><i>Pass-Q</i></b> are current privately used platforms and not yet available to the public</small></h6>
+{{-- <h6 class="specialnote"><small> *** <b><i>ClickClock</i></b> and <b><i>Pass-Q</i></b> are current privately used platforms and not yet available to the public</small></h6> --}}
         
     </div>
 </div>
